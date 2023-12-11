@@ -1,0 +1,10 @@
+#weatherApp {
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+#weatherResult {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
