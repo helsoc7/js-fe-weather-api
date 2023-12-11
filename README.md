@@ -14,3 +14,5 @@ Füge Funktionen hinzu, die die Benutzereingabe verarbeiten, das Wetter abrufen 
 - Implementiere eine Funktion, um die Wettervorhersage für die nächsten Tage anzuzeigen.
 - Erweitere die App, um mehr Wetterinformationen wie Temperatur, Luftfeuchtigkeit und Windgeschwindigkeit anzuzeigen.
 
+![Beispiel für die HTML-Ansicht](https://github.com/helsoc7/js-fe-weather-api/blob/main/example-html-view)
+
